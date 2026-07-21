@@ -4,21 +4,21 @@ Este repositorio contiene el sistema desarrollado como parte del trabajo de titu
 
 # Estructura del proyecto
 
-### 01 Preprocesamiento.ipynb
+### 01 Preprocesamiento_Final.ipynb
 
 Contiene el proceso de preparación del conjunto de datos, incluyendo el redimensionamiento de imágenes, normalización, aumento de datos y generación de los archivos NumPy utilizados durante el entrenamiento.
 
-### 02 Entrenamiento_UNet.ipynb
+### 02 Modelo_U-Net_final.ipynb
 
 Implementación y entrenamiento del modelo U-Net.
 
-### 03 Entrenamiento_LinkNet.ipynb
+### 03 Modelo_LinkNet_final.ipynb
 
 Implementación y entrenamiento del modelo LinkNet.
 
-### 04 Entrenamiento_DeepLabV3+.ipynb
+### 04 Modelo_DeeplabV3.ipynb
 
-Implementación y entrenamiento del modelo DeepLabV3+ empleado como modelo final del sistema.
+Implementación y entrenamiento del modelo DeepLabV3+. 
 
 ### 05 Modelos
 
