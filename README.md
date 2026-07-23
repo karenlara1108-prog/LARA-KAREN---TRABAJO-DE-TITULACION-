@@ -22,11 +22,9 @@ Implementación y entrenamiento del modelo DeepLabV3+.
 
 ### 05 Modelos
 
-Contiene los modelos entrenados:
+Contiene los modelos entrenados finales. Debido a su alto peso, los archivos (.keras) se encuentran alojados externamente para su descarga:
 
-* Modelo_LinkNet_final.ipynb
-* Modelo_U-Net_final.ipynb
-* deeplabV3plus.keras
+https://drive.google.com/drive/folders/1dApmfXEYLgTc8jcvTzDmr3OA-Gkl-yrd?usp=sharing 
   
 ### 06 EvaluacionFinal_Modelos.ipynb
 
