@@ -31,7 +31,7 @@ Contiene los modelos entrenados:
 ### 06 EvaluacionFinal_Modelos.ipynb
 
 Comparación del desempeño de las tres arquitecturas implementadas.
-### 07 Sistema_Deteccion.ipynb
+### 07 Módulo_Final_Deteccion.ipynb
 
 Implementa el sistema final de detección. Permite cargar una imagen aérea, realizar automáticamente el preprocesamiento requerido, ejecutar la predicción mediante DeepLabV3+ y visualizar la máscara segmentada obtenida.
 
