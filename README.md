@@ -41,8 +41,8 @@ El sistema realiza las siguientes etapas:
 * Preprocesamiento automático.
 * Carga del modelo DeepLabV3+ entrenado.
 * Segmentación de la imagen.
-* Visualización de la máscara obtenida y de la superposición sobre la imagen original.
-* Resultado esperado
+* Visualización del resultado de la máscara obtenida y de la superposición sobre la imagen original.
+
 
 Como salida del sistema se obtiene:
 
